@@ -1,0 +1,16 @@
+.Wrap{
+    display: flex;
+    align-items: center;
+    background: #d8fccd;
+    color:#222;
+    padding:0% 5%;
+    min-height: 100vh;
+    flex-direction: column;
+    transition:transform  .3s ease;
+    
+}
+.messageShow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,7 @@
+.countrysWrap{
+    display: flex;
+    justify-content: center;
+    color:#fff;
+    flex-wrap: wrap;
+    gap:20px;
+}
